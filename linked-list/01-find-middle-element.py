@@ -13,15 +13,15 @@ class LinkedList:
         self.head = None
 
     def add(self, n: Node):
-        node = Node(n)
+        t = Node(n)
         if self.head:
             tail = self.head
             while tail.next!=None:
                 tail=tail.next
 
-            tail.next = node
+            tail.next = t
         else:
-            self.head = node
+            self.head = t
 
     def print_ll(self, start: Node):
         p = start
