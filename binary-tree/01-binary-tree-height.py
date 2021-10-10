@@ -3,8 +3,6 @@
 # https://www.interviewbit.com/problems/max-depth-of-binary-tree/
 
 
-from typing import List
-
 class Node:
     def __init__(self, data=0, left=None, right=None):
         self.data = data
