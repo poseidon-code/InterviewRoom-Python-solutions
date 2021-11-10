@@ -6,6 +6,7 @@ from heapq import heappush, heappop
 maxq = []
 minq = []
 
+# SOLUTION
 def get_median():
     if len(maxq) > len(minq):
         return float(-maxq[0])
