@@ -2,8 +2,6 @@
 # https://leetcode.com/problems/edit-distance/
 
 
-from typing import List
-
 # SOLUTION
 def edit_distance (word1: str, word2: str) -> int:
     m, n, pre = len(word1), len(word2), 0
