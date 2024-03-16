@@ -154,7 +154,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 
 
 
-## Dynamic Programming
+### Dynamic Programming
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**                  | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-----------------------------------|------------------|
 | 1      | Climbing Stairs                                          | [LeetCode](https://leetcode.com/problems/climbing-stairs/)                                                          | [Solution](./dynamic-programming/01-climbing-stairs.py)
@@ -182,7 +182,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 23     | Matrix Chain Multiplication                              | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            | [Solution](./dynamic-programming/23-matrix-chain-multiplication.py)
 | 24     | Palindrome Partitioning                                  | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                | [Solution](./dynamic-programming/24-palindrome.py)
 
-## Graph
+### Graph
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**                  | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-----------------------------------|------------------|
 | 1      | Region in Binary Matrix                                  | [InterviewBit](https://www.interviewbit.com/problems/region-in-binarymatrix/) , [GFG](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)                                                          | [Solution](./graph/01-region.py)
